@@ -1,0 +1,17 @@
+﻿  image_crop.cpp
+..\image_crop.cpp(60): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\image_crop.cpp(61): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\image_crop.cpp(62): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\image_crop.cpp(92): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+..\image_crop.cpp(96): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+..\image_crop.cpp(209): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+..\image_crop.cpp(274): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\image_crop.cpp(275): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+..\image_crop.cpp(276): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 517 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  随机裁剪图片成为背景.vcxproj -> D:\programs\随机裁剪图片成为背景\x64\Release\随机裁剪图片成为背景.exe
+  随机裁剪图片成为背景.vcxproj -> D:\programs\随机裁剪图片成为背景\x64\Release\随机裁剪图片成为背景.pdb (Full PDB)
